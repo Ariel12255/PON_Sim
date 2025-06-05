@@ -9,8 +9,8 @@ The effect of traffic load ranging from 5 Gbps to 50 Gbps
 Fixed DBA: each ONU is allocated equal bandwidth in every DBA cycle (2 ms and 1 ms cycles considered)
 
 
-├── scratch/
-│   └── pon_fixed_dba.cc           # Main NS-3 simulation source code
+scratch/
+pon_fixed_dba.cc           # Main NS-3 simulation source code
 
 Example Run for All Buffer Sizes (Bash loop)
 bash
